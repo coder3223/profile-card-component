@@ -23,8 +23,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profilecardcomponent-NBNVSj98p
+- Live Site URL: https://coder3223.github.io/profile-card-component/
 
 ### Built with
 
