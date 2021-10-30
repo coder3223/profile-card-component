@@ -31,8 +31,8 @@ body {
     border: 5px solid whitesmoke;
     border-radius: 50%;
     object-fit: cover;
-    position: absolute;
-    top: 300px;
+    position: relative;
+    top: 85px;
 }
 
 .card-top {
